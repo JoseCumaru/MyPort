@@ -1,0 +1,11 @@
+<div class="projeto">
+    <h3>Título do Projeto 1</h3>
+    <p>Descrição do Projeto 1</p>
+    <img src="imagem-do-projeto-1.jpg" alt="Imagem do Projeto 1">
+    </div>
+<div class="projeto">
+    <h3>Título do Projeto 2</h3>
+    <p>Descrição do Projeto 2</p>
+    <img src="imagem-do-projeto-2.jpg" alt="Imagem do Projeto 2">
+    </div>
+<!-- Adicione mais projetos conforme necessário -->
